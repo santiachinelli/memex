@@ -152,12 +152,31 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title></title>
-      <link>santiachinelli.github.io/post/test/</link>
+      <link>santiachinelli.github.io/post/_test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/post/test/</guid>
+      <guid>santiachinelli.github.io/post/_test/</guid>
       <description>#Title: Test
 A test.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>santiachinelli.github.io/post/_thefifthelephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/_thefifthelephant/</guid>
+      <description>The Fifth Elephant by Terry Pratchett: A Short Review Initial Thoughts I recently acquired most of Terry Pratchett&amp;rsquo;s Discworld series, and having previously read only a few of his works (Reaper Man, Making Money) I figured that the best way to jump back into it was to pick a title at random and go all in.
+A testament to the brilliance of the late Mr. Pratchett&amp;rsquo;s prose, that ease of access.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>santiachinelli.github.io/post/_vignettes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/_vignettes/</guid>
+      <description>Interfacing with the World Machine A giant, globe spanning machine that behaves more like a biological organism than infrastructure. Resilent to changes in government, ecological disaster, and limited nuclear exchanges. The world machine occupies real estate in the closest reaches of space and the furthest depths of the ocean.</description>
     </item>
     
   </channel>
