@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <base href="http://memex.achinelli.com/">
+    <title> Math Typesetting </title>
+    <link rel="canonical" href="http://memex.achinelli.com/math-typesetting/">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="alternate" type="application/rss+xml" href="http://memex.achinelli.com/index.xml" title="M E M E X">
+
+    
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/singular.min.011ac04cdcc95d18a28fa60ea533fd3c30de4c726107ef0be63a9d6691c00bdf.css" integrity="sha256-ARrATNzJXRiij6YOpTP9PDDeTHJhB&#43;8L5jqdZpHAC98=" crossorigin="anonymous" media="screen" />
+    
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i%2C800%2C800i&subset=latin%2Clatin-ext' rel='stylesheet'>
+
+    <link rel="stylesheet" href=/css/custom.css media="screen">
+
+    
+
+    
+  
+
+
+</head>
+<body><header id="masthead" class="site-header">
+  <div class="site-header__branding site-branding">
+
+    <div class="site-branding__logo site-logo site-logo--rounded">
+      <a class="custom-logo-link" rel="home" itemprop="url" href="">
+        <img width="96" height="96" src="/">
+      </a>
+    </div>
+
+    <div class="site-branding__copy">
+      <h1 class="site-title"><a href="/" rel="home">M E M E X</a></h1>
+      <p class="site-description"></p>
+    </div>
+
+  </div>
+</header>
+<div class="site-main content">
+<article>
+  <header class="entry-header">
+    <h1 class="entry-title">Math Typesetting</h1>
+  </header>
+
+    <div class="entry-meta entry-meta-before-content">
+      <span class="entry-meta-item posted-on">
+        <a href="http://memex.achinelli.com/math-typesetting/">
+          <time class="entry-date published" datetime="2019-03-08T00:00:00&#43;0000">March 8, 2019</time>
+        </a>
+      </span>
+    </div>
+
+	<div class="entry-content">
+    <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+  </div>
+
+  
+  <nav class="navigation post-navigation" role="navigation" aria-label="Posts navigation">
+    <h2 class="screen-reader-text">Posts navigation</h2>
+    <div class="nav-links">
+      
+      <div class="nav-nxt">
+        <span>Newer Post </span>
+        <a href="http://memex.achinelli.com/placeholder-text/" rel="next">Placeholder Text</a>
+      </div>
+      
+      
+      <div class="nav-pre">
+        <span>Older Post </span>
+        <a href="http://memex.achinelli.com/emoji-support/" rel="prev">Emoji Support</a>
+      </div>
+      
+    </div>
+  </nav>
+  
+
+</article>
+
+        </div><footer id="colophon" class="site-footer" role="contentinfo">
+  <div class="site-footer__copy site-copy">
+    
+  </div>
+</footer>
+</body>
+</html>
