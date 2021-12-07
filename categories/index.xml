@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SANTI&#39;S MEMEX</title>
-    <link>https://santiachinelli.github.io/memex/categories/</link>
+    <link>santiachinelli.github.io/categories/</link>
     <description>Recent content in Categories on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://santiachinelli.github.io/memex/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>business</title>
-      <link>https://santiachinelli.github.io/memex/categories/business/</link>
+      <link>santiachinelli.github.io/categories/business/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://santiachinelli.github.io/memex/categories/business/</guid>
+      <guid>santiachinelli.github.io/categories/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ramblings</title>
-      <link>https://santiachinelli.github.io/memex/categories/ramblings/</link>
+      <link>santiachinelli.github.io/categories/ramblings/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://santiachinelli.github.io/memex/categories/ramblings/</guid>
+      <guid>santiachinelli.github.io/categories/ramblings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://santiachinelli.github.io/memex/categories/syntax/</link>
+      <link>santiachinelli.github.io/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://santiachinelli.github.io/memex/categories/syntax/</guid>
+      <guid>santiachinelli.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://santiachinelli.github.io/memex/categories/themes/</link>
+      <link>santiachinelli.github.io/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://santiachinelli.github.io/memex/categories/themes/</guid>
+      <guid>santiachinelli.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
