@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on M E M E X</title>
-    <link>http://memex.achinelli.com/categories/</link>
-    <description>Recent content in Categories on M E M E X</description>
+    <title>Categories on SANTI&#39;S MEMEX</title>
+    <link>https://santiachinelli.github.io/memex/categories/</link>
+    <description>Recent content in Categories on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://memex.achinelli.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://santiachinelli.github.io/memex/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Santi</title>
-      <link>http://memex.achinelli.com/categories/santi/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <title>business</title>
+      <link>https://santiachinelli.github.io/memex/categories/business/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/categories/santi/</guid>
+      <guid>https://santiachinelli.github.io/memex/categories/business/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tests</title>
-      <link>http://memex.achinelli.com/categories/tests/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <title>ramblings</title>
+      <link>https://santiachinelli.github.io/memex/categories/ramblings/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/categories/tests/</guid>
+      <guid>https://santiachinelli.github.io/memex/categories/ramblings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>http://memex.achinelli.com/categories/syntax/</link>
+      <link>https://santiachinelli.github.io/memex/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/categories/syntax/</guid>
+      <guid>https://santiachinelli.github.io/memex/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://memex.achinelli.com/categories/themes/</link>
+      <link>https://santiachinelli.github.io/memex/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/categories/themes/</guid>
+      <guid>https://santiachinelli.github.io/memex/categories/themes/</guid>
       <description></description>
     </item>
     

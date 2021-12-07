@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>themes on M E M E X</title>
-    <link>http://memex.achinelli.com/tags/themes/</link>
-    <description>Recent content in themes on M E M E X</description>
+    <title>themes on SANTI&#39;S MEMEX</title>
+    <link>https://santiachinelli.github.io/memex/tags/themes/</link>
+    <description>Recent content in themes on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://memex.achinelli.com/tags/themes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://memex.achinelli.com/post/test/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://memex.achinelli.com/post/test/</guid>
-      <description> .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  The world will end. You’ll die. So will everyone you’ve ever known. Why do you care about what’s bumming you out right now? Nothing matters Please continue to enjoy Arby’s
-&amp;mdash; Nihilist Arby&amp;#39;s (@nihilist_arbys) August 29, 2021   </description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://santiachinelli.github.io/memex/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://memex.achinelli.com/markdown-syntax/</link>
+      <link>https://santiachinelli.github.io/memex/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/markdown-syntax/</guid>
+      <guid>https://santiachinelli.github.io/memex/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://memex.achinelli.com/post/markdown-syntax/</link>
+      <link>https://santiachinelli.github.io/memex/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/post/markdown-syntax/</guid>
+      <guid>https://santiachinelli.github.io/memex/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     

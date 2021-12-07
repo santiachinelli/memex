@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on M E M E X</title>
-    <link>http://memex.achinelli.com/tags/</link>
-    <description>Recent content in Tags on M E M E X</description>
+    <title>Tags on SANTI&#39;S MEMEX</title>
+    <link>https://santiachinelli.github.io/memex/tags/</link>
+    <description>Recent content in Tags on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://memex.achinelli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://santiachinelli.github.io/memex/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>http://memex.achinelli.com/tags/css/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://santiachinelli.github.io/memex/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/css/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://memex.achinelli.com/tags/html/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://santiachinelli.github.io/memex/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/html/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://memex.achinelli.com/tags/markdown/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://santiachinelli.github.io/memex/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/markdown/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://memex.achinelli.com/tags/themes/</link>
-      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://santiachinelli.github.io/memex/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/themes/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://memex.achinelli.com/tags/privacy/</link>
+      <link>https://santiachinelli.github.io/memex/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/privacy/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://memex.achinelli.com/tags/shortcodes/</link>
+      <link>https://santiachinelli.github.io/memex/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/shortcodes/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://memex.achinelli.com/tags/text/</link>
+      <link>https://santiachinelli.github.io/memex/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/text/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://memex.achinelli.com/tags/emoji/</link>
+      <link>https://santiachinelli.github.io/memex/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/emoji/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://memex.achinelli.com/tags/index/</link>
+      <link>https://santiachinelli.github.io/memex/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://memex.achinelli.com/tags/index/</guid>
+      <guid>https://santiachinelli.github.io/memex/tags/index/</guid>
       <description></description>
     </item>
     

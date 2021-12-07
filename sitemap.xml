@@ -2,96 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://memex.achinelli.com/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/categories/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/post/books/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/css/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/post/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/html/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/categories/business/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/markdown/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/categories/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/post/better-meetings/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/categories/santi/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/categories/ramblings/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+    <loc>https://santiachinelli.github.io/memex/post/this/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/test/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://memex.achinelli.com/categories/tests/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://memex.achinelli.com/tags/themes/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://memex.achinelli.com/archives/</loc>
+    <loc>https://santiachinelli.github.io/memex/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/markdown-syntax/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/markdown-syntax/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/categories/syntax/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/categories/themes/</loc>
+    <loc>https://santiachinelli.github.io/memex/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/privacy/</loc>
+    <loc>https://santiachinelli.github.io/memex/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiachinelli.github.io/memex/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiachinelli.github.io/memex/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiachinelli.github.io/memex/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiachinelli.github.io/memex/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiachinelli.github.io/memex/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/rich-content/</loc>
+    <loc>https://santiachinelli.github.io/memex/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/rich-content/</loc>
+    <loc>https://santiachinelli.github.io/memex/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/shortcodes/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/placeholder-text/</loc>
+    <loc>https://santiachinelli.github.io/memex/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/placeholder-text/</loc>
+    <loc>https://santiachinelli.github.io/memex/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/text/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/math-typesetting/</loc>
+    <loc>https://santiachinelli.github.io/memex/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/math-typesetting/</loc>
+    <loc>https://santiachinelli.github.io/memex/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/emoji/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/emoji-support/</loc>
+    <loc>https://santiachinelli.github.io/memex/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/post/emoji-support/</loc>
+    <loc>https://santiachinelli.github.io/memex/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/about/</loc>
+    <loc>https://santiachinelli.github.io/memex/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://memex.achinelli.com/test/</loc>
-    <priority>0</priority>
+    <loc>https://santiachinelli.github.io/memex/post/test/</loc>
   </url><url>
-    <loc>http://memex.achinelli.com/tags/index/</loc>
+    <loc>https://santiachinelli.github.io/memex/tags/index/</loc>
   </url>
 </urlset>
