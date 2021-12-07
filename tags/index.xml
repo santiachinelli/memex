@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SANTI&#39;S MEMEX</title>
-    <link>memex.achinelli.com/tags/</link>
+    <link>santiachinelli.github.com/tags/</link>
     <description>Recent content in Tags on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="memex.achinelli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>memex.achinelli.com/tags/css/</link>
+      <link>santiachinelli.github.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/css/</guid>
+      <guid>santiachinelli.github.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>memex.achinelli.com/tags/html/</link>
+      <link>santiachinelli.github.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/html/</guid>
+      <guid>santiachinelli.github.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>memex.achinelli.com/tags/markdown/</link>
+      <link>santiachinelli.github.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/markdown/</guid>
+      <guid>santiachinelli.github.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>memex.achinelli.com/tags/themes/</link>
+      <link>santiachinelli.github.com/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/themes/</guid>
+      <guid>santiachinelli.github.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>memex.achinelli.com/tags/privacy/</link>
+      <link>santiachinelli.github.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/privacy/</guid>
+      <guid>santiachinelli.github.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>memex.achinelli.com/tags/shortcodes/</link>
+      <link>santiachinelli.github.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/shortcodes/</guid>
+      <guid>santiachinelli.github.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>memex.achinelli.com/tags/text/</link>
+      <link>santiachinelli.github.com/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/text/</guid>
+      <guid>santiachinelli.github.com/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>memex.achinelli.com/tags/emoji/</link>
+      <link>santiachinelli.github.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/emoji/</guid>
+      <guid>santiachinelli.github.com/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>memex.achinelli.com/tags/index/</link>
+      <link>santiachinelli.github.com/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>memex.achinelli.com/tags/index/</guid>
+      <guid>santiachinelli.github.com/tags/index/</guid>
       <description></description>
     </item>
     
