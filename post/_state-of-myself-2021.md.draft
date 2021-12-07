@@ -1,9 +1,10 @@
----
-title: 'State of Myself 2021'
-date: '2021-26-01'
-description: 'Only by biting down hard on this self improvement neolib fantasy am I ever going to get myself into a reasonably good state.'
-author: 'by Santi'
----
++++
+title = 'State of Myself 2021'
+date = '2021-26-01'
+description = 'Only by biting down hard on this self improvement neolib fantasy am I ever going to get myself into a reasonably good state.'
+author = 'by Santi'
+draft = 'true'
++++
 ## Getting My Bearings
 
 This is going to serve as a _de facto_ About Me section since it will become the first of something of an annual tradition. Since the year conveniently starts in January, and my birthday is also in January (16), then aiming to have one of thee out before February every year is a doable (and rememberable!) long term goal.
