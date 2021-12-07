@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SANTI&#39;S MEMEX</title>
-    <link>santiachinelli.github.com/post/</link>
+    <link>santiachinelli.github.io/post/</link>
     <description>Recent content in Posts on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books I&#39;m Reading</title>
-      <link>santiachinelli.github.com/post/books/</link>
+      <link>santiachinelli.github.io/post/books/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/books/</guid>
+      <guid>santiachinelli.github.io/post/books/</guid>
       <description>Happy 2021! In honor of the change of calendar, I&amp;rsquo;m going to start tracking books I&amp;rsquo;ve read this year and what I thought about them. I know this would likely be easier with Goodreads or similar, but yeah nah.
 Book: Terminal Beach by J.G Ballard
 Book: An Astronaut&amp;rsquo;s Guide to LIfe on Earth by Chris Hadfield
@@ -22,75 +22,75 @@ Book: Atomic Habits by James Clear</description>
     
     <item>
       <title>Nontechnical Meetings</title>
-      <link>santiachinelli.github.com/post/better-meetings/</link>
+      <link>santiachinelli.github.io/post/better-meetings/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/better-meetings/</guid>
+      <guid>santiachinelli.github.io/post/better-meetings/</guid>
       <description>Here&amp;rsquo;s a meeting structure I have found to be very useful for weekly update meetings. It&amp;rsquo;s a little long for a daily meeting, unless you have a small team.
    Time Activity     10 minutes On a sheet of paper, thoughtfully right out your completed action items from the previous week, and your action items foe the coming week. Identify any potential problems at the end (three sections, 3 minutes per section)   0 minutes Pass the paper to the person to your left   1 minute Review and mentally prepare to pitch and represent your coworker’s week   3 minutes Explain their week to the group.</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>santiachinelli.github.com/post/this/</link>
+      <link>santiachinelli.github.io/post/this/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/this/</guid>
+      <guid>santiachinelli.github.io/post/this/</guid>
       <description>Hey what&amp;rsquo;s up Ballbags It&amp;rsquo;s me, ya boi, Santi.
 Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing now. Turns out, all I need is a beer and some bad music to actually get down to the business of getting my thoughts condensed and put on the &amp;lsquo;net.</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>santiachinelli.github.com/post/markdown-syntax/</link>
+      <link>santiachinelli.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/markdown-syntax/</guid>
+      <guid>santiachinelli.github.io/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>santiachinelli.github.com/post/rich-content/</link>
+      <link>santiachinelli.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/rich-content/</guid>
+      <guid>santiachinelli.github.io/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>santiachinelli.github.com/post/placeholder-text/</link>
+      <link>santiachinelli.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/placeholder-text/</guid>
+      <guid>santiachinelli.github.io/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>santiachinelli.github.com/post/math-typesetting/</link>
+      <link>santiachinelli.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/math-typesetting/</guid>
+      <guid>santiachinelli.github.io/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>santiachinelli.github.com/post/emoji-support/</link>
+      <link>santiachinelli.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/emoji-support/</guid>
+      <guid>santiachinelli.github.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>santiachinelli.github.com/post/test/</link>
+      <link>santiachinelli.github.io/post/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.com/post/test/</guid>
+      <guid>santiachinelli.github.io/post/test/</guid>
       <description>#Title: Test
 A test.</description>
     </item>
