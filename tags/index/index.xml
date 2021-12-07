@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on SANTI&#39;S MEMEX</title>
-    <link>santiachinelli.github.io/tags/index/</link>
+    <link>memex.achinelli.com/tags/index/</link>
     <description>Recent content in index on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="santiachinelli.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="memex.achinelli.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>santiachinelli.github.io/post/</link>
+      <link>memex.achinelli.com/post/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/post/</guid>
+      <guid>memex.achinelli.com/post/</guid>
       <description></description>
     </item>
     
