@@ -6,18 +6,37 @@
     <description>Recent content on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skill Acquisition and Inventory</title>
+      <link>santiachinelli.github.io/post/_skillacq/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/_skillacq/</guid>
+      <description>Tasks for Holiday Trip:  Learn to use target performance levels review kettlebell form (am getting worse, which is bad for my back/neck/body in general unless I want to look like a caveman) bring kettlebell with me to MD, learn good strength replacements with the kb. (update: I can do mostly everything if I split things like curls and rows in half, lateral raises I&amp;rsquo;ll just have to find a bottle or something to fill with water to do, since 35 pounds is entirely too much for that)  Notes from The First 20 Hours Audiobook &amp;ldquo;If you&amp;rsquo;re not willing to commit 20 hours to a skill upfront, it&amp;rsquo;s not worth learning (for you)&amp;rdquo;</description>
+    </item>
+    
     <item>
       <title>Books I&#39;m Reading</title>
       <link>santiachinelli.github.io/post/books/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>santiachinelli.github.io/post/books/</guid>
-      <description>Happy 2021! In honor of the change of calendar, I&amp;rsquo;m going to start tracking books I&amp;rsquo;ve read this year and what I thought about them. I know this would likely be easier with Goodreads or similar, but yeah nah.
+      <description>I decided in the beginning of 2021 that I would start tracking books I&amp;rsquo;ve read this year and what I thought about them. I know this would likely be easier with Goodreads or similar, but I prefer a text list.
 Book: Terminal Beach by J.G Ballard
 Book: An Astronaut&amp;rsquo;s Guide to LIfe on Earth by Chris Hadfield
 Book: Soccer in Sun and Shadow by Eduardo Galeano
 Book: Atomic Habits by James Clear</description>
+    </item>
+    
+    <item>
+      <title>Unrelated Thoughts</title>
+      <link>santiachinelli.github.io/post/_vignettes/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/_vignettes/</guid>
+      <description>A collection of original and flagrantly stolen ideas that are currently or have recently taken up residence in the more organized parts of my conciousness.
+Interfacing with the World Machine A giant, globe spanning machine that behaves more like a biological organism than infrastructure. Resilent to changes in government, ecological disaster, and limited nuclear exchanges. The world machine occupies real estate in the closest reaches of space and the furthest depths of the ocean.</description>
     </item>
     
     <item>
@@ -51,15 +70,6 @@ Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing 
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>santiachinelli.github.io/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
       <link>santiachinelli.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -77,24 +87,6 @@ Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing 
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>santiachinelli.github.io/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>santiachinelli.github.io/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Placeholder Text</title>
       <link>santiachinelli.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
@@ -105,29 +97,11 @@ Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing 
     
     <item>
       <title>Math Typesetting</title>
-      <link>santiachinelli.github.io/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
       <link>santiachinelli.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>santiachinelli.github.io/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>santiachinelli.github.io/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -148,15 +122,6 @@ Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing 
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>santiachinelli.github.io/post/_vignettes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/_vignettes/</guid>
-      <description>Interfacing with the World Machine A giant, globe spanning machine that behaves more like a biological organism than infrastructure. Resilent to changes in government, ecological disaster, and limited nuclear exchanges. The world machine occupies real estate in the closest reaches of space and the furthest depths of the ocean.</description>
     </item>
     
   </channel>
