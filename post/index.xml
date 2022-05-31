@@ -6,14 +6,19 @@
     <description>Recent content in Posts on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="santiachinelli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>End of 2021: Reflections</title>
-      <link>santiachinelli.github.io/post/last_post_2021/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <title>A Few Thoughts</title>
+      <link>santiachinelli.github.io/post/a_few_things/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/post/last_post_2021/</guid>
-      <description>As we head into 2022 (Minus Betty White, RIP) I&amp;rsquo;m thinking more and more about the movie, Aniara. I&amp;rsquo;m also moving to Boston in March, and besides all the work involved, I&amp;rsquo;m more hesitant about putting together a portfolio than about the work involved in moving. I guess I have anxiety about putting work out there, which from my recent understanding, is not uncommon in people who aren&amp;rsquo;t traditional university grads.</description>
+      <guid>santiachinelli.github.io/post/a_few_things/</guid>
+      <description>Youthful Optimism We use the phrase &amp;lsquo;youthful optimism&amp;rsquo; almost like a linguistic stopgap. It&amp;rsquo;s weight somewhere between &amp;lsquo;a fleeting thing to be desired&amp;rsquo; and &amp;lsquo;a backhanded compliment reserved for when my juniors get out of line&amp;rsquo;.
+I&amp;rsquo;ve been thinking a lot about the phrase recently, since I started wondering where all the optimistic short science fiction I used to read, 5 or 6 years ago, went. There was Motherboard (nee Vice News) Terraform, which had spit out an enormous amount of great short scifi, along with thematically relavant art, every other week or so.</description>
     </item>
     
     <item>
@@ -40,10 +45,10 @@ Book: Atomic Habits by James Clear</description>
     
     <item>
       <title>Unrelated Thoughts</title>
-      <link>santiachinelli.github.io/post/vignettes/</link>
+      <link>santiachinelli.github.io/post/_vignettes/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/post/vignettes/</guid>
+      <guid>santiachinelli.github.io/post/_vignettes/</guid>
       <description>A collection of original and flagrantly stolen ideas that are currently or have recently taken up residence in the more organized parts of my conciousness.
 Interfacing with the World Machine A giant, globe spanning machine that behaves more like a biological organism than infrastructure. Resilent to changes in government, ecological disaster, and limited nuclear exchanges. The world machine occupies real estate in the closest reaches of space and the furthest depths of the ocean.</description>
     </item>
@@ -111,6 +116,16 @@ Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing 
       
       <guid>santiachinelli.github.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>santiachinelli.github.io/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/test/</guid>
+      <description>#Title: Test
+A test.</description>
     </item>
     
   </channel>
