@@ -5,11 +5,15 @@
     <link>santiachinelli.github.io/tags/index/</link>
     <description>Recent content in index on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="santiachinelli.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="santiachinelli.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Posts</title>
       <link>santiachinelli.github.io/post/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>santiachinelli.github.io/post/</guid>
       <description></description>
