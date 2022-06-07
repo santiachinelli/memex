@@ -1,197 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>santiachinelli.github.io/post/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/skill-acquisition-and-inventory/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/skillacq/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/</loc>
-    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/books/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/ideas/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/scraps/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/_vignettes/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/categories/business/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/categories/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/better-meetings/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/categories/ramblings/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/this/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>santiachinelli.github.io/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/community/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/puerto-rico/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/rambings/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/tech/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/techno-optimism/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/low_power_computing/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/a_few_things/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/ramblings/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/tags/skill-acquisition-and-inventory/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/skillacq/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/tags/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/books/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/tags/ideas/</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/tags/scraps/</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/_vignettes/</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/categories/business/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>santiachinelli.github.io/post/better-meetings/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>santiachinelli.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/a_few_things/</loc>
-  </url>
-  
-  <url>
-    <loc>santiachinelli.github.io/post/test/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>santiachinelli.github.io/tags/index/</loc>
   </url>
-  
 </urlset>
