@@ -6,10 +6,60 @@
     <description>Recent content in Categories on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>community</title>
+      <link>santiachinelli.github.io/categories/community/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/community/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="santiachinelli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puerto Rico</title>
+      <link>santiachinelli.github.io/categories/puerto-rico/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/puerto-rico/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>rambings</title>
+      <link>santiachinelli.github.io/categories/rambings/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/rambings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>santiachinelli.github.io/categories/tech/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno optimism</title>
+      <link>santiachinelli.github.io/categories/techno-optimism/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/techno-optimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramblings</title>
+      <link>santiachinelli.github.io/categories/ramblings/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/categories/ramblings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>business</title>
@@ -17,33 +67,6 @@
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>santiachinelli.github.io/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ramblings</title>
-      <link>santiachinelli.github.io/categories/ramblings/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/categories/ramblings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>santiachinelli.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>santiachinelli.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/categories/themes/</guid>
       <description></description>
     </item>
     

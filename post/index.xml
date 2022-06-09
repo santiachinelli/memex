@@ -6,10 +6,16 @@
     <description>Recent content in Posts on SANTI&#39;S MEMEX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="santiachinelli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts from the Tropics - Resilient Computing</title>
+      <link>santiachinelli.github.io/post/low_power_computing/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/low_power_computing/</guid>
+      <description>Any time I find myself back in Puerto Rico my brain inevitably wanders back to low powered computing. I think it&amp;rsquo;s partially because all of the machines in the office(s) I visit here have Uninterruptible Power Supplies (UPSs) and partially because of how the sunny weather always makes me want to get a laptop with a matte screen.
+When I used to live here, I found myself drawing up plans for a lower power PC.</description>
+    </item>
     
     <item>
       <title>A Few Thoughts</title>
@@ -17,7 +23,7 @@
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
       <guid>santiachinelli.github.io/post/a_few_things/</guid>
-      <description>Youthful Optimism We use the phrase &amp;lsquo;youthful optimism&amp;rsquo; almost like a linguistic stopgap. It&amp;rsquo;s weight somewhere between &amp;lsquo;a fleeting thing to be desired&amp;rsquo; and &amp;lsquo;a backhanded compliment reserved for when my juniors get out of line&amp;rsquo;.
+      <description>We use the phrase &amp;lsquo;youthful optimism&amp;rsquo; almost like a linguistic stopgap. It&amp;rsquo;s weight somewhere between &amp;lsquo;a fleeting thing to be desired&amp;rsquo; and &amp;lsquo;a backhanded compliment reserved for when my juniors get out of line&amp;rsquo;.
 I&amp;rsquo;ve been thinking a lot about the phrase recently, since I started wondering where all the optimistic short science fiction I used to read, 5 or 6 years ago, went. There was Motherboard (nee Vice News) Terraform, which had spit out an enormous amount of great short scifi, along with thematically relavant art, every other week or so.</description>
     </item>
     
@@ -61,71 +67,6 @@ Interfacing with the World Machine A giant, globe spanning machine that behaves 
       <guid>santiachinelli.github.io/post/better-meetings/</guid>
       <description>Here&amp;rsquo;s a meeting structure I have found to be very useful for weekly update meetings. It&amp;rsquo;s a little long for a daily meeting, unless you have a small team.
    Time Activity     10 minutes On a sheet of paper, thoughtfully right out your completed action items from the previous week, and your action items foe the coming week. Identify any potential problems at the end (three sections, 3 minutes per section)   0 minutes Pass the paper to the person to your left   1 minute Review and mentally prepare to pitch and represent your coworker’s week   3 minutes Explain their week to the group.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>santiachinelli.github.io/post/this/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/this/</guid>
-      <description>Hey what&amp;rsquo;s up Ballbags It&amp;rsquo;s me, ya boi, Santi.
-Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing now. Turns out, all I need is a beer and some bad music to actually get down to the business of getting my thoughts condensed and put on the &amp;lsquo;net.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>santiachinelli.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>santiachinelli.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>santiachinelli.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>santiachinelli.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>santiachinelli.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>santiachinelli.github.io/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>santiachinelli.github.io/post/test/</guid>
-      <description>#Title: Test
-A test.</description>
     </item>
     
   </channel>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puerto Rico on SANTI&#39;S MEMEX</title>
+    <link>santiachinelli.github.io/categories/puerto-rico/</link>
+    <description>Recent content in Puerto Rico on SANTI&#39;S MEMEX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/categories/puerto-rico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts from the Tropics - Resilient Computing</title>
+      <link>santiachinelli.github.io/post/low_power_computing/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>santiachinelli.github.io/post/low_power_computing/</guid>
+      <description>Any time I find myself back in Puerto Rico my brain inevitably wanders back to low powered computing. I think it&amp;rsquo;s partially because all of the machines in the office(s) I visit here have Uninterruptible Power Supplies (UPSs) and partially because of how the sunny weather always makes me want to get a laptop with a matte screen.
+When I used to live here, I found myself drawing up plans for a lower power PC.</description>
+    </item>
+    
+  </channel>
+</rss>
